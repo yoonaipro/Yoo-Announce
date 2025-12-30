@@ -1,0 +1,8 @@
+prefix: "<#8c78ff>[Yoo-Announce] <white>"
+messages:
+  no-permission: "<red>У вас нет прав!"
+  reload-success: "<green>Конфигурация перезагружена!"
+  help:
+    header: "<#8c78ff>Помощь Yoo Announce"
+    separator: "<gray>----------------"
+    reload-desc: "<white>/yoo-announce reload - Перезагрузить конфиг"

@@ -1,0 +1,8 @@
+prefix: "<#8c78ff>[Yoo-Announce] <white>"
+messages:
+  no-permission: "<red>You do not have permission!"
+  reload-success: "<green>Configuration reloaded!"
+  help:
+    header: "<#8c78ff>Yoo Announce Help"
+    separator: "<gray>----------------"
+    reload-desc: "<white>/yoo-announce reload - Reload config"
