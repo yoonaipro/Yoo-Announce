@@ -7,17 +7,17 @@ groups:
   news:
     - ""
     - "<gradient:#8c78ff:#cf9fff><bold>NEWS</bold></gradient> <gray>»</gray> <white>Stay updated with our latest project news!</white>"
-    - "<gray>Follow us on Telegram:</gray> <#0088cc>https://t.me/yoonaipro</#0088cc>"
+    - "&7Follow us on Telegram: <#0088cc><underlined><click:open_url:'https://t.me/yoonaipro'>t.me/yoonaipro</click></underlined></#0088cc>"
     - ""
   # Group name: support
   support:
     - ""
     - "<#8c78ff><bold>SUPPORT</bold> <gray>»</gray> <white>Found a bug or need help? Contact our team.</white>"
-    - "<white>Join our community:</white> <#0088cc>https://github.com/yoonaipro/Yoo-Announce</#0088cc>"
+    - "&fJoin our community: <#0088cc><underlined><click:open_url:'https://github.com/yoonaipro/Yoo-Announce'>github.com/yoonaipro/Yoo-Announce</click></underlined></#0088cc>"
     - ""
   # Group name: info
   info:
     - ""
     - "<#cf9fff><bold>INFO</bold> <gray>»</gray> <white>Check out our plugins and updates.</white>"
-    - "<white>Visit our channel:</white> <#0088cc>https://t.me/yoonaipro</#0088cc>"
+    - "&fVisit our channel: <#0088cc><underlined><click:open_url:'https://t.me/yoonaipro'>t.me/yoonaipro</click></underlined></#0088cc>"
     - ""
