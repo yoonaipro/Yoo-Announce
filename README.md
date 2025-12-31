@@ -21,6 +21,6 @@
 
 
 ## License
-**MIT License**
+**CC BY-ND 4.0 License**
 
-The plugin and configuration files are released under the MIT License. See [LICENSE](LICENSE) for details.
+The plugin and configuration files are released under the CC BY-ND 4.0 License. See [LICENSE](LICENSE) for details.
